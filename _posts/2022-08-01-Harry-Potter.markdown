@@ -15,8 +15,8 @@ background: /assets/images/1161023_Cathedral_Church_of_Christ,_Blessed_Mary_the_
   <br>
 <ul style="display: flex; list-style-type: none; ">
   <li style="margin-right: 20px; width: 40%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 10px; border-radius: 5px;">
-    <a href="/pois/GlenFinnan.html">
-      <img src="/assets/images/Crossing_Glen_Finnan_Viaduct_-_geograph.org.uk_-_1820304.jpg" style="width: 229px; height: 170px; display: block; align: center; margin-left: auto; margin-right: auto;">
+    <a href="../pois/GlenFinnan.html">
+      <img src="../assets/images/Crossing_Glen_Finnan_Viaduct_-_geograph.org.uk_-_1820304.jpg" style="width: 229px; height: 170px; display: block; align: center; margin-left: auto; margin-right: auto;">
       <h3 style="text-align: center;">Glen Finnan</h3>
       <p style="text-align: center;">Σκοτία</p>
     </a>
