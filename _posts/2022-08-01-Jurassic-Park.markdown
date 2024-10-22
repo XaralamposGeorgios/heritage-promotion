@@ -13,15 +13,15 @@ background: /assets/images/256px-Jurassic_Park_-_panoramio_-_Jun_Maegawa.jpg
   <br>
 <ul style="display: flex; list-style-type: none; ">
   <li style="margin-right: 20px; width: 40%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 10px; border-radius: 5px;">
-    <a href="/pois/Limahui.html">
-      <img src="/assets/images/Limahuli_Garden_and_Preserve,_Kauai,_Hawaii_-_general_view.jpeg" style="width: 229px; height: 170px; display: block; align: center; margin-left: auto; margin-right: auto;">
+    <a href="/heritage-promotion/pois/Limahui.html">
+      <img src="/heritage-promotion/assets/images/Limahuli_Garden_and_Preserve,_Kauai,_Hawaii_-_general_view.jpeg" style="width: 229px; height: 170px; display: block; align: center; margin-left: auto; margin-right: auto;">
       <h3 style="text-align: center;">Κύπος Limahuli</h3>
       <p style="text-align: center;">Κουάι</p>
     </a>
   </li>
   <li style="margin-right: 20px; width: 40%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 10px; border-radius: 5px;">
-    <a href="/pois/Manawaiopuna_Falls.html">
-      <img src="/assets/images/1024px-Manawaiopuna_Falls.jpg" style="width: 229px; height: 170px;  display: block; align: center; margin-left: auto; margin-right: auto;">
+    <a href="/heritage-promotion/pois/Manawaiopuna_Falls.html">
+      <img src="/heritage-promotion/assets/images/1024px-Manawaiopuna_Falls.jpg" style="width: 229px; height: 170px;  display: block; align: center; margin-left: auto; margin-right: auto;">
       <h3 style="text-align: center;">Καταράκτης Manawaiopuna</h3>
       <p style="text-align: center;">Κουάι</p>
     </a>
