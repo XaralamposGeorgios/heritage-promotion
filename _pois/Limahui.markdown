@@ -5,7 +5,6 @@ title:  Κήπος Limahuli
 image: '/assets/images/Limahuli_Garden_and_Preserve,_Kauai,_Hawaii_-_general_view.jpeg'
 background: '/assets/images/Limahuli_Garden_and_Preserve,_Kauai,_Hawaii_-_general_view.jpeg'
 category: Jurassic Park
-url: 'https://xaralamposgeorgios.github.io/heritage-promotion/pois/Limahui.html'
 ---
 
 <p>Το Καουάι (αγγλικά Kauai), το τέταρτο μεγαλύτερο νησί στη Χαβάη, είναι από τα πλέον πιο βροχερά μέρη του κόσμου. Μεγάλα τμήματα του ορεινού νησιού κρύβονται στα σύννεφα. Αυτά τα δάση με την οργιώδη βλάστηση και τη μεγάλη υγρασία είναι η πατρίδα τροπικών πουλιών που απειλούνται με εξαφάνιση. Ακόμη και μικρές μεταβολές στις καιρικές συνθήκες, όπως στη συχνότητα των βροχοπτώσεων, μπορεί να προκαλέσουν μεγάλες αλλαγές στην περιοχή, θέτοντας σε κίνδυνο το οικοσύστημα του νησιού.</p>
