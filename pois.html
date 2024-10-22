@@ -9,10 +9,10 @@ background: '/assets/images/destination.jpg'
   {% assign filtered_pois = site.pois | where: "category", "Jurassic Park" %}
   {% for poi in filtered_pois %}
     <li style="margin-right: 20px; width: 40%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 10px; border-radius: 5px;">
-      <a href="/heritage-promotion/{{ poi.url }}">
+      <a href="/heritage-promotion{{ poi.url }}">
 
         {% if poi.image %}
-          <img src="{{ poi.image }}" alt="{{ poi.title }} image" style="width: 229px; height: 170px; display: block; align: center; margin-left: auto; margin-right: auto;"/>
+          <img src="/heritage-promotion{{ poi.image }}" alt="/heritage-promotion{{ poi.title }} image" style="width: 229px; height: 170px; display: block; align: center; margin-left: auto; margin-right: auto;"/>
         {% endif %}
         <br>
         <h2>{{ poi.title }}</h2>
@@ -28,10 +28,10 @@ background: '/assets/images/destination.jpg'
   {% assign filtered_pois = site.pois | where: "category", "Harry Potter" %}
   {% for poi in filtered_pois %}
     <li style="margin-right: 20px; width: 40%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 10px; border-radius: 5px;">
-      <a href="{{ poi.url }}">
+      <a href="/heritage-promotion{{ poi.url }}">
 
         {% if poi.image %}
-          <img src="{{ poi.image }}" alt="{{ poi.title }} image" style="width: 229px; height: 170px; display: block; align: center; margin-left: auto; margin-right: auto;"/>
+          <img src="/heritage-promotion{{ poi.image }}" alt="/heritage-promotion{{ poi.title }} image" style="width: 229px; height: 170px; display: block; align: center; margin-left: auto; margin-right: auto;"/>
         {% endif %}
         <br>
         <h2>{{ poi.title }}</h2>
@@ -47,10 +47,10 @@ background: '/assets/images/destination.jpg'
   {% assign filtered_pois = site.pois | where: "category", "Lord of the Rings" %}
   {% for poi in filtered_pois %}
     <li style="margin-right: 20px; width: 40%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 10px; border-radius: 5px;">
-      <a href="{{ poi.url }}">
+      <a href="/heritage-promotion{{ poi.url }}">
 
         {% if poi.image %}
-          <img src="{{ poi.image }}" alt="{{ poi.title }} image" style="width: 229px; height: 170px; display: block; align: center; margin-left: auto; margin-right: auto;"/>
+          <img src="/heritage-promotion{{ poi.image }}" alt="/heritage-promotion{{ poi.title }} image" style="width: 229px; height: 170px; display: block; align: center; margin-left: auto; margin-right: auto;"/>
         {% endif %}
         <br>
         <h2>{{ poi.title }}</h2>
