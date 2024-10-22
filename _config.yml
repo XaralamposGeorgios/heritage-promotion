@@ -17,10 +17,10 @@ title: Movie Map
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ταξίδεψε σε εμβληματικές τοποθεσίες όπου γυρίστηκαν οι αγαπημένες σου κινηματογραφικές παραγωγές. Από τις γραφικές πόλεις και τα εξωτικά νησιά, μέχρι τις επικές σκηνές δράσης και τα ρομαντικά τοπία, ζήσε την εμπειρία να βρεθείς εκεί που ο κινηματογράφος έγινε πραγματικότητα. Ετοιμάσου να ανακαλύψεις τον κόσμο μέσα από το βλέμμα του φακού!
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "/heritage-promotion" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  το github repo σας
+github_username:  XaralamposGeorgios
 
 # Build settings
 markdown: kramdown
