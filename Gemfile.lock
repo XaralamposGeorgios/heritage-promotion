@@ -12,6 +12,14 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
+    faraday (2.12.0)
+      faraday-net_http (>= 2.0, < 3.4)
+      json
+      logger
+    faraday-net_http (3.3.0)
+      net-http
+    faraday-retry (2.2.1)
+      faraday (~> 2.0)
     ffi (1.17.0-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
@@ -47,6 +55,7 @@ GEM
       jekyll (>= 3.8.5)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
+    json (2.7.2)
     kramdown (2.4.0)
       rexml
     kramdown-parser-gfm (1.1.0)
@@ -61,6 +70,8 @@ GEM
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
+    net-http (0.4.1)
+      uri
     ostruct (0.6.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -82,6 +93,7 @@ GEM
     tzinfo-data (1.2024.2)
       tzinfo (>= 1.0.0)
     unicode-display_width (1.8.0)
+    uri (0.13.1)
     wdm (0.2.0)
     webrick (1.8.2)
 
@@ -92,6 +104,7 @@ DEPENDENCIES
   base64
   bigdecimal
   csv
+  faraday-retry
   jekyll (~> 4.2.0)
   jekyll-feed (~> 0.6)
   jekyll-remote-theme
