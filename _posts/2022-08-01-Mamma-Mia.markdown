@@ -20,10 +20,10 @@ background: /assets/images/256px-Jurassic_Park_-_panoramio_-_Jun_Maegawa.jpg
     </a>
   </li>
   <li style="margin-right: 20px; width: 40%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 10px; border-radius: 5px;">
-    <a href="/heritage-promotion/pois/Manawaiopuna_Falls.html">
-      <img src="/heritage-promotion/assets/images/1024px-Manawaiopuna_Falls.jpg" style="width: 229px; height: 170px;  display: block; align: center; margin-left: auto; margin-right: auto;">
-      <h3 style="text-align: center;">Καταράκτης Manawaiopuna</h3>
-      <p style="text-align: center;">Κουάι</p>
+    <a href="/heritage-promotion/pois/Skiathos.html">
+      <img src="/heritage-promotion/assets/images/512px-Skiathos_10_-_panoramio.jpg" style="width: 229px; height: 170px;  display: block; align: center; margin-left: auto; margin-right: auto;">
+      <h3 style="text-align: center;">Σκιάθος</h3>
+      <p style="text-align: center;">Ελλάδα</p>
     </a>
   </li>
   
