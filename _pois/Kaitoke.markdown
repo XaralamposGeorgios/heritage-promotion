@@ -1,7 +1,7 @@
 ---
 layout: poi
 wikidatum: Q6348657
-title:  Εθνηκό Πάρκο Kaitoke        
+title:  Εθνικό Πάρκο Kaitoke        
 image: /assets/images/Rivendell_(3).jpg
 background: /assets/images/Rivendell_(3).jpg
 category: Lord of the Rings
