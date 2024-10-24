@@ -3,7 +3,7 @@ layout: post
 title:  "Harry Potter"
 date:   2022-08-01 03:01:00 +0000
 categories: jekyll
-image: /heritage-promotion/assets/images/Harry_Potter_ Logo.png
+image: /heritage-promotion/assets/images/Harry_Potter_Logo.png
 background: /assets/images/1161023_Cathedral_Church_of_Christ,_Blessed_Mary_the_Virgin_and_St_Cuthbert_of_Durham,_Interior,_Cloisters_Durham_20240523_0094_DxO.jpg
 ---
 
