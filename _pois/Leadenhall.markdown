@@ -2,8 +2,8 @@
 layout: poi
 wikidatum: Q961148
 title:  Leadenhall Market
-image: /assets/images/Mercado_Leadenhall,_Londres,_Inglaterra,_2014-08-11,_DD_147.jpeg
-background: /assets/images/Mercado_Leadenhall,_Londres,_Inglaterra,_2014-08-11,_DD_147.jpeg
+image: /assets/images/1024px-Mercado_Leadenhall,_Londres,_Inglaterra,_2014-08-11,_DD_148.jpeg
+background: /assets/images/1024px-Mercado_Leadenhall,_Londres,_Inglaterra,_2014-08-11,_DD_148.jpeg
 category: Harry Potter
 ---
 
