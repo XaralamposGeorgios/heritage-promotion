@@ -31,7 +31,7 @@ background: /assets/images/El_Señor_de_los_Anillos_lectura.jpg
 
   <li style="margin-right: 20px; width: 40%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 10px; border-radius: 5px;">
     <a href="/heritage-promotion/pois/Kaitoke.html">
-      <img src="/heritage-promotion/assets/images/Rivendell_(3).jpg" style="width: 229px; height: 170px;  display: block; align: center; margin-left: auto; margin-right: auto;">
+      <img src="/heritage-promotion/assets/images/576px-Rivendell_(3).jpg" style="width: 229px; height: 170px;  display: block; align: center; margin-left: auto; margin-right: auto;">
       <h3 style="text-align: center;">Εθνηκό Πάρκο Kaitoke</h3>
       <p style="text-align: center;">Νέα Ζηλανδία</p>
     </a>
