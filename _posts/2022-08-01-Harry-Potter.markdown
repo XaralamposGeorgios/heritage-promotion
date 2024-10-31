@@ -4,7 +4,7 @@ title:  "Harry Potter"
 date:   2022-08-01 03:01:00 +0000
 categories: jekyll
 image: /assets/images/Harry_Potter_Logo.png
-background: /assets/images/1161023_Cathedral_Church_of_Christ,_Blessed_Mary_the_Virgin_and_St_Cuthbert_of_Durham,_Interior,_Cloisters_Durham_20240523_0094_DxO.jpg
+background: /assets/images/1024px-Hogwarts_school_of_magic_in_late_1800s_according_to_Hogwarts_Legacy.jpg
 ---
 
 <p>Η σειρά ακολουθεί τη ζωή ενός αγοριού που ονομάζεται Χάρι Πότερ. Στο πρώτο βιβλίο, Ο Χάρι Πότερ και η Φιλοσοφική Λίθος (Ο Χάρι Πότερ και η Πέτρα του Μάγου στις ΗΠΑ), ο Χάρι ζει σε ένα ντουλάπι κάτω από τις σκάλες στο σπίτι των Ντάρσλι, της θείας, του θείου και του ξαδέλφου του, που όλοι του συμπεριφέρονται άσχημα. Σε ηλικία 11 ετών, ο Χάρι ανακαλύπτει ότι είναι μάγος. Συναντά έναν μισό γίγαντα που ονομάζεται Χάγκριντ που του δίνει μια επιστολή αποδοχής για να παρακολουθήσει τη Σχολή Μαγείας και Μαγείας του Χόγκουαρτς. Ο Χάρι μαθαίνει ότι οι γονείς του, Λίλι και Τζέιμς Πότερ, είχαν επίσης μαγικές δυνάμεις και δολοφονήθηκαν από τον σκοτεινό μάγο Λόρδο Βόλντεμορτ όταν ο Χάρι ήταν μωρό. Όταν ο Βόλντεμορτ προσπάθησε να σκοτώσει τον Χάρι, η κατάρα του ανέκαμψε, φαινομενικά σκοτώνοντας τον Βόλντεμορτ και ο Χάρι επέζησε με μια ουλή σε σχήμα αστραπής στο μέτωπό του. Το γεγονός έκανε τον Χάρι διάσημο στην κοινότητα των μάγων και των μαγισσών.</p>
@@ -23,7 +23,7 @@ background: /assets/images/1161023_Cathedral_Church_of_Christ,_Blessed_Mary_the_
   </li>
   <li style="margin-right: 20px; width: 40%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 10px; border-radius: 5px;">
     <a href="/heritage-promotion/pois/DuranCathedral.html">
-      <img src="/heritage-promotion/assets/images/1161023_Cathedral_Church_of_Christ,_Blessed_Mary_the_Virgin_and_St_Cuthbert_of_Durham,_Interior,_Cloisters_Durham_20240523_0093_DxO.jpg" style="width: 229px; height: 170px;  display: block; align: center; margin-left: auto; margin-right: auto;">
+      <img src="/heritage-promotion/assets/images/1024px-1161023_Cathedral_Church_of_Christ,_Blessed_Mary_the_Virgin_and_St_Cuthbert_of_Durham,_Interior,_Cloisters_Durham_20240523_0093_DxO.jpg" style="width: 229px; height: 170px;  display: block; align: center; margin-left: auto; margin-right: auto;">
       <h3 style="text-align: center;">Καθεδρικός Ναός Ντάραμ</h3>
       <p style="text-align: center;">Αγγλία</p>
     </a>
@@ -31,7 +31,7 @@ background: /assets/images/1161023_Cathedral_Church_of_Christ,_Blessed_Mary_the_
 
   <li style="margin-right: 20px; width: 40%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 10px; border-radius: 5px;">
     <a href="/heritage-promotion/pois/Leadenhall.html">
-      <img src="/heritage-promotion/assets/images/Mercado_Leadenhall,_Londres,_Inglaterra,_2014-08-11,_DD_147.jpeg" style="width: 229px; height: 170px;  display: block; align: center; margin-left: auto; margin-right: auto;">
+      <img src="/heritage-promotion/assets/images/1024px-Mercado_Leadenhall,_Londres,_Inglaterra,_2014-08-11,_DD_148.jpeg" style="width: 229px; height: 170px;  display: block; align: center; margin-left: auto; margin-right: auto;">
       <h3 style="text-align: center;">Leadenhall Market</h3>
       <p style="text-align: center;">Αγγλία</p>
     </a>
